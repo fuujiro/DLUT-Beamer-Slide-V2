@@ -2,7 +2,7 @@
 
 Hurry up STAR and FORK this Repo, which is a free Gospel of dlut students, is the visual enjoyment and aesthetic impact for teachers. Using this template, you will easily enter the winner group of lives. And any report or defence will bow down on your crumpled jeans/garments from now on.
 
-[click here to preview](https://gitee.com/fuujiro/DLUT-Beamer-Slide/raw/master/slide.pdf)
+[click here to preview](https://gitee.com/fuujiro/DLUT-Beamer-Slide-V2/raw/master/slide.pdf)
 
 ### This template is suitable for:
 - Undergraduate, postgraduate and doctoral thesis/dissertation defense
